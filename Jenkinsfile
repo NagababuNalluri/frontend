@@ -5,7 +5,7 @@
    }
      stages  {
         stage('Compile/Build') {
-            steps{
+            steps {
               echo 'hello from hello stage'
             }
         }
