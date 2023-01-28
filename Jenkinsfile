@@ -33,6 +33,8 @@
         }
      }
      post{
-     always {
-     echo 'send an email'}
- }
+       always {
+         echo 'send an email'
+       }
+     }
+ }   
