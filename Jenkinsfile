@@ -1,7 +1,7 @@
  pipeline  {
 
    agent {
-      label 'workstation'
+   label 'workstation'
    }
      stages  {
         stage('Compile/Build') {
